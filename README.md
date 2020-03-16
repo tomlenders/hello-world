@@ -1,3 +1,5 @@
 # hello-world
-This is a hello-world repository to update Github knowledge
+This is a repository to update Github knowledge
 My name is Tom
+
+Add more changes and delete some words
